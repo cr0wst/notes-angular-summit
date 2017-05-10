@@ -1,6 +1,8 @@
 # Notes for Angular Summit 2017
 This is where you will find the notes that I take during Angular Summit 2017.  I will organize the notes by folder.  Eventually I will publish them to my site.
 
+The notes in here are going to be rough.  They will be cleaned up when I have more time after the conference.
+
 ## Sessions
 I would like to attend the following sessions:
 
