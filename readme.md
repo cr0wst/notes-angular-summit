@@ -6,7 +6,7 @@ I would like to attend the following sessions:
 
 ### Wednesday
 - 10:30 - 12:00 PM Web Apps with Angular Part I
-- 01:00 - 02:30 PM Programming with JavaScript - Method to Madness
+- 01:00 - 02:30 PM Web Apps with Angular Part II
 - 03:00 - 04:30 PM Mastering TypeScript
 - 05:00 - 06:30 PM Angular 4 for Java developers
 ### Thursday
