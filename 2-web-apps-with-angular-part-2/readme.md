@@ -180,6 +180,7 @@ export const routes: Routes = [
     {
         path: 'containers', // What URL
         component: ContainersComponent // What component
+        // Can add another array to do children routes.
     },
     {
         path: '**', // Default route
