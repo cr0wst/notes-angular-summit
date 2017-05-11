@@ -85,5 +85,8 @@ ionViewWillLoad() {
 }
 ```
 
+## Hardware Access
+Can be done via `ionic native core`.
+
 ## Summary
 The documentation seems really solid and I don't think an hour and thirty minutes really does it justice.  Looks pretty straightforward and easy to use.
